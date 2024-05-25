@@ -1,0 +1,17 @@
+[1.702s] Invoking command in '/home/shiv/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/shiv/ros2_ws/build/my_robot_controller/prefix_override:/home/shiv/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shiv/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[2.500s] running develop
+[3.101s] running egg_info
+[3.101s] writing my_robot_controller.egg-info/PKG-INFO
+[3.102s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[3.102s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[3.102s] writing requirements to my_robot_controller.egg-info/requires.txt
+[3.102s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[3.107s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[3.109s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[3.111s] running build_ext
+[3.112s] Creating /home/shiv/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[3.113s] Installing test_node script to /home/shiv/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[3.113s] 
+[3.114s] Installed /home/shiv/ros2_ws/build/my_robot_controller
+[3.114s] running symlink_data
+[3.175s] Invoked command in '/home/shiv/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/shiv/ros2_ws/build/my_robot_controller/prefix_override:/home/shiv/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shiv/ros2_ws/build/my_robot_controller/build --no-deps symlink_data

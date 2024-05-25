@@ -1,0 +1,19 @@
+[1.582s] Invoking command in '/home/shiv/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/shiv/ros2_ws/build/my_robot_controller/prefix_override:/home/shiv/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shiv/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force
+[2.281s] running develop
+[2.701s] running egg_info
+[2.702s] writing my_robot_controller.egg-info/PKG-INFO
+[2.703s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[2.703s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[2.704s] writing requirements to my_robot_controller.egg-info/requires.txt
+[2.705s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[2.709s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[2.711s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[2.714s] running build_ext
+[2.715s] Creating /home/shiv/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[2.717s] Installing test_node script to /home/shiv/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[2.718s] 
+[2.718s] Installed /home/shiv/ros2_ws/build/my_robot_controller
+[2.719s] running symlink_data
+[2.719s] symbolically linking /home/shiv/ros2_ws/build/my_robot_controller/resource/my_robot_controller -> /home/shiv/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[2.719s] symbolically linking /home/shiv/ros2_ws/build/my_robot_controller/package.xml -> /home/shiv/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[2.784s] Invoked command in '/home/shiv/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/shiv/ros2_ws/build/my_robot_controller/prefix_override:/home/shiv/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shiv/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force

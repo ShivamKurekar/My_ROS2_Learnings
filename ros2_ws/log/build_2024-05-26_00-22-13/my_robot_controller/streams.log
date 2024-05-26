@@ -1,0 +1,22 @@
+[1.025s] Invoking command in '/home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller/prefix_override:/home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force
+[1.486s] running develop
+[1.761s] running egg_info
+[1.761s] writing my_robot_controller.egg-info/PKG-INFO
+[1.761s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.762s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.762s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.762s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.766s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.767s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.769s] running build_ext
+[1.770s] Creating /home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.771s] Installing Draw_circle script to /home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.771s] Installing Pose_subscriber script to /home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.771s] Installing Turtle_controller script to /home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.772s] Installing test_node script to /home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.772s] 
+[1.772s] Installed /home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller
+[1.772s] running symlink_data
+[1.772s] symbolically linking /home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller/resource/my_robot_controller -> /home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.773s] symbolically linking /home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller/package.xml -> /home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[1.812s] Invoked command in '/home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller/prefix_override:/home/shiv/My_ROS2_Learnings/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shiv/My_ROS2_Learnings/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force

@@ -21,7 +21,9 @@ setup(
     entry_points={
         'console_scripts': [
             "test_node = my_robot_controller.my_first_node:main",
-            "Draw_circle = my_robot_controller.draw_circle:main"
+            "Draw_circle = my_robot_controller.draw_circle:main",
+            "Pose_subscriber = my_robot_controller.pose_subscriber:main",
+            "Turtle_controller = my_robot_controller.turtle_controller:main"
         ],
     },
 )
